@@ -73,6 +73,34 @@ namespace Esercizio_Thread
             }
         }
 
-        
+        public void muoviAereo()
+        {
+            while (posAereo < 685)
+            {
+                posAereo += 30;
+
+                Thread.Sleep(TimeSpan.FromMilliseconds(500));
+
+                this.Dispatcher.BeginInvoke(new Action(() =>
+                {
+                    imgAereo.Margin = new Thickness(posAereo, 118, 0, 0);
+                }));
+            }
+        }
+
+        public void muoviMessi()
+        {
+            while (posMessi < 685)
+            {
+                posMessi += 30;
+
+                Thread.Sleep(TimeSpan.FromMilliseconds(500));
+
+                this.Dispatcher.BeginInvoke(new Action(() =>
+                {
+                    imgMessi.Margin = new Thickness(posAereo, 242, 0, 0);
+                }));
+            }
+        }
     }
 }
