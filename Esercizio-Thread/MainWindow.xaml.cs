@@ -24,11 +24,16 @@ namespace Esercizio_Thread
         readonly Uri uriMacchina = new Uri("Maccchina.png", UriKind.Relative);
         int posMacchina;
 
+        readonly Uri uriAereo = new Uri("Aereo.png", UriKind.Relative);
+        int posAereo;
+
+        readonly Uri uriMessi = new Uri("Messi.png", UriKind.Relative);
+        int posMessi;
 
         public MainWindow()
         {
             InitializeComponent();
-;
+
             Thread t1 = new Thread(new ThreadStart(muoviMacchina));
 
             ImageSource im = new BitmapImage(uriMacchina);
@@ -36,7 +41,21 @@ namespace Esercizio_Thread
 
             t1.Start();
 
-            
+            Thread t2 = new Thread(new ThreadStart(muoviAereo));
+
+            ImageSource im2 = new BitmapImage(uriAereo);
+            imgAereo.Source = im2;
+
+            t2.Start();
+
+            Thread t3 = new Thread(new ThreadStart(muoviMessi));
+
+            ImageSource im3 = new BitmapImage(uriMessi);
+            imgMessi.Source = im3;
+
+            t3.Start();
+
+            lbl.Content = "I concorrenti sono arrivati a parimerito";
         }
 
         public void muoviMacchina()
