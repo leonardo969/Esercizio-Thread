@@ -1,0 +1,60 @@
+C:\Users\leonardo.vincenzi\source\repos\Esercizio-Thread\Esercizio-Thread\bin\Debug\Esercizio-Thread.exe.config
+C:\Users\leonardo.vincenzi\source\repos\Esercizio-Thread\Esercizio-Thread\bin\Debug\Esercizio-Thread.exe
+C:\Users\leonardo.vincenzi\source\repos\Esercizio-Thread\Esercizio-Thread\bin\Debug\Esercizio-Thread.pdb
+C:\Users\leonardo.vincenzi\source\repos\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.csprojAssemblyReference.cache
+C:\Users\leonardo.vincenzi\source\repos\Esercizio-Thread\Esercizio-Thread\obj\Debug\MainWindow.g.cs
+C:\Users\leonardo.vincenzi\source\repos\Esercizio-Thread\Esercizio-Thread\obj\Debug\App.g.cs
+C:\Users\leonardo.vincenzi\source\repos\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread_MarkupCompile.cache
+C:\Users\leonardo.vincenzi\source\repos\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread_MarkupCompile.lref
+C:\Users\leonardo.vincenzi\source\repos\Esercizio-Thread\Esercizio-Thread\obj\Debug\MainWindow.baml
+C:\Users\leonardo.vincenzi\source\repos\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.g.resources
+C:\Users\leonardo.vincenzi\source\repos\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio_Thread.Properties.Resources.resources
+C:\Users\leonardo.vincenzi\source\repos\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.csproj.GenerateResource.cache
+C:\Users\leonardo.vincenzi\source\repos\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.vincenzi\source\repos\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.exe
+C:\Users\leonardo.vincenzi\source\repos\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.pdb
+C:\Users\Standard\Desktop\Thread-20210101T142458Z-001\Thread\Esercizio-Thread\Esercizio-Thread\bin\Debug\Esercizio-Thread.exe.config
+C:\Users\Standard\Desktop\Thread-20210101T142458Z-001\Thread\Esercizio-Thread\Esercizio-Thread\bin\Debug\Esercizio-Thread.exe
+C:\Users\Standard\Desktop\Thread-20210101T142458Z-001\Thread\Esercizio-Thread\Esercizio-Thread\bin\Debug\Esercizio-Thread.pdb
+C:\Users\Standard\Desktop\Thread-20210101T142458Z-001\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.csprojAssemblyReference.cache
+C:\Users\Standard\Desktop\Thread-20210101T142458Z-001\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\MainWindow.g.cs
+C:\Users\Standard\Desktop\Thread-20210101T142458Z-001\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\App.g.cs
+C:\Users\Standard\Desktop\Thread-20210101T142458Z-001\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread_MarkupCompile.cache
+C:\Users\Standard\Desktop\Thread-20210101T142458Z-001\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread_MarkupCompile.lref
+C:\Users\Standard\Desktop\Thread-20210101T142458Z-001\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\MainWindow.baml
+C:\Users\Standard\Desktop\Thread-20210101T142458Z-001\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.g.resources
+C:\Users\Standard\Desktop\Thread-20210101T142458Z-001\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio_Thread.Properties.Resources.resources
+C:\Users\Standard\Desktop\Thread-20210101T142458Z-001\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.csproj.GenerateResource.cache
+C:\Users\Standard\Desktop\Thread-20210101T142458Z-001\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.csproj.CoreCompileInputs.cache
+C:\Users\Standard\Desktop\Thread-20210101T142458Z-001\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.exe
+C:\Users\Standard\Desktop\Thread-20210101T142458Z-001\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.pdb
+C:\Users\Standard\Desktop\Thread\Esercizio-Thread\Esercizio-Thread\bin\Debug\Esercizio-Thread.exe.config
+C:\Users\Standard\Desktop\Thread\Esercizio-Thread\Esercizio-Thread\bin\Debug\Esercizio-Thread.exe
+C:\Users\Standard\Desktop\Thread\Esercizio-Thread\Esercizio-Thread\bin\Debug\Esercizio-Thread.pdb
+C:\Users\Standard\Desktop\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.csprojAssemblyReference.cache
+C:\Users\Standard\Desktop\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\MainWindow.g.cs
+C:\Users\Standard\Desktop\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\App.g.cs
+C:\Users\Standard\Desktop\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread_MarkupCompile.cache
+C:\Users\Standard\Desktop\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread_MarkupCompile.lref
+C:\Users\Standard\Desktop\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\MainWindow.baml
+C:\Users\Standard\Desktop\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.g.resources
+C:\Users\Standard\Desktop\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio_Thread.Properties.Resources.resources
+C:\Users\Standard\Desktop\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.csproj.GenerateResource.cache
+C:\Users\Standard\Desktop\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.csproj.CoreCompileInputs.cache
+C:\Users\Standard\Desktop\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.exe
+C:\Users\Standard\Desktop\Thread\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.pdb
+C:\Users\Standard\Desktop\Thread - Copia\Esercizio-Thread\Esercizio-Thread\bin\Debug\Esercizio-Thread.exe.config
+C:\Users\Standard\Desktop\Thread - Copia\Esercizio-Thread\Esercizio-Thread\bin\Debug\Esercizio-Thread.exe
+C:\Users\Standard\Desktop\Thread - Copia\Esercizio-Thread\Esercizio-Thread\bin\Debug\Esercizio-Thread.pdb
+C:\Users\Standard\Desktop\Thread - Copia\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.csprojAssemblyReference.cache
+C:\Users\Standard\Desktop\Thread - Copia\Esercizio-Thread\Esercizio-Thread\obj\Debug\MainWindow.g.cs
+C:\Users\Standard\Desktop\Thread - Copia\Esercizio-Thread\Esercizio-Thread\obj\Debug\App.g.cs
+C:\Users\Standard\Desktop\Thread - Copia\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread_MarkupCompile.cache
+C:\Users\Standard\Desktop\Thread - Copia\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread_MarkupCompile.lref
+C:\Users\Standard\Desktop\Thread - Copia\Esercizio-Thread\Esercizio-Thread\obj\Debug\MainWindow.baml
+C:\Users\Standard\Desktop\Thread - Copia\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.g.resources
+C:\Users\Standard\Desktop\Thread - Copia\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio_Thread.Properties.Resources.resources
+C:\Users\Standard\Desktop\Thread - Copia\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.csproj.GenerateResource.cache
+C:\Users\Standard\Desktop\Thread - Copia\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.csproj.CoreCompileInputs.cache
+C:\Users\Standard\Desktop\Thread - Copia\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.exe
+C:\Users\Standard\Desktop\Thread - Copia\Esercizio-Thread\Esercizio-Thread\obj\Debug\Esercizio-Thread.pdb
